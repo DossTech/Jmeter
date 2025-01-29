@@ -26,3 +26,9 @@ Test the app before/after version release to ensure the stability
 Jmeter - tool
 =============
 Its a java based application
+A synchronous, thread based, script execution engine
+Can be utilized for load and performance testing
+Fully OpenSource(Apache 2.0 license) project
+Not a browser although simulates some of a browser behaviour
+
+
