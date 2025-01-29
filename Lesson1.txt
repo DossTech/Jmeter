@@ -1,0 +1,28 @@
+In this course, we will:
+
+Provide an initial introduction to JMeter
+
+Cover the main building blocks
+
+Clarify execution order and scoping rules
+
+Help you master parameterization, correlations, and use of data sets
+
+Teach you to build a basic JMeter script
+
+
+--------------------------------------------------
+Lorena Jinchuk
+
+---------------------------------------------------
+
+Peformance Testing:
+=================
+Simulate real business use cases of your web app
+Test the app under the predefined concurrency
+Validating the app/servers readiness ahead of peak events
+Test the app before/after version release to ensure the stability
+
+Jmeter - tool
+=============
+Its a java based application
