@@ -1,0 +1,55 @@
+We need to describe the "main building blocks" and element types you will use in your scripts
+These are:
+
+Test plan
+Thread Groups
+Sampleres
+Config elements
+listeners
+timers
+assertions
+pre-post processors
+
+------------------------
+TestPlan: basic for entire Jmeter 
+           a collection of elements that define how to simulate a user's interaction with a web application or server
+           
+
+Thread Groups: 
+           its job is to create thread
+          threads were the no of users
+          Defines the number of USERS, RAMP-UP PERIOD AND LOOP COUNT.
+
+Sampleres:
+          Simulates a user's request, such as HTTP, FTP, or JDBC.
+          Will have these:
+              
+                - Name: The name of the Sampler.
+                - Protocol: The protocol to use (e.g., HTTP, FTP, etc.).
+                - Server: The server name or IP address.
+                - Port: The port number to use.
+                - Method: The request method (e.g., GET, POST, etc.).
+                - Path: The URL path.
+                - Headers: Any additional headers to include in the request.
+                - Body Data: Any data to include in the request body.
+
+  Constant Timer:
+          a type of timer that introduces a constant delay between requests
+  
+  Assertion:
+          -a test element that allows you to verify that the response from the server meets certain conditions. 
+          -to validate the correctness of the response data, such as the response code, headers, body content, and more.
+
+  Setting PreProcessor ---->JSR223
+  Setting PostProcessor---->JSR223
+
+  Enable ViewResultTree
+
+  Clear the logs
+
+  execute---> we can see the request, respone body, headers
+
+          
+           
+           
+
