@@ -1,0 +1,28 @@
+Jmeter 100% java app
+It can run in any platform
+
+Requirements:
+============
+JAVA 8
+JMETER
+JMETER PLUGINS
+
+INSTALLATION:
+=============
+1.Check the version : java -version
+2.Go to official site.
+3.Run jmeter.bat.in ./bin folder of install directory
+\bin\jmter.bat
+
+Managing plugins manually
+==========================
+Download plugins from  jmeter-plugins.org/
+
+
+newway
+-------
+1.go to the website:jmeter-plugins.org/
+2.Click the  documentation
+3.Click installation
+4.Downloadplugin-manager.jar----place it in ./lib/ext  of jmeter
+
