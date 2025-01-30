@@ -1,0 +1,22 @@
+Commonly Used Elements ThreadGroups
+===================================
+
+Thread-Group:
+------------
+  Createing thread - determines th no of use- when stimu TP
+
+  Name: Users
+  Number of Threads: 10
+  Rampup period: 20 seconds
+  LoopCount [tick] forever=5
+
+Samplers:
+---------
+
+
+//If two timers exists
+=========================
+At TestPlan
+    1.Check [Run thread group consecutively
+    2.Check [Run tearDown Thread Groups after shutdown of main threads
+    
