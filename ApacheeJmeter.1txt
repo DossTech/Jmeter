@@ -1,0 +1,28 @@
+JMETER
+=======
+AN OPEN SOURCE SOFTWARE
+100% pure java app
+For load testing---functional behaviour and measure performance
+
+Featured:
+---------
+Load and performance testing many diff app/feature/server/protocol
+          Web - HTTP,HTTPS
+          SOAP/REST webservices
+          FTP
+          Database via JDBC
+          ldap
+          MOM(mESSAGE ORIENTED mIDDLEWATE VIA jms
+          MAIL - smtp,pop3,imap
+          Native command  or shell scripts
+          TCP
+          JAVA Objects
+Full featured IDE
+Complete portable and 100% JAva purity
+Full multi-threading framework - separate thread groups
+Jmeter not a browser
+
+
+Disadvantage:
+-------------
+ Does not execute the Javascript found in HTML pages.
