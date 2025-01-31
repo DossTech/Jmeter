@@ -1,0 +1,15 @@
+1.01.Test plan building
+=======================
+File----->Templates------>Recording
+
+
+3.Elements of TestPlan
+======================
+
+3.1ThreadGroups
+---------------
+     Its the beginning  points of any test
+     All controllers and samplers were  under thread group
+     Samplers also under threadgroups
+
+     Samplers will be applicable for all the threadgrous
