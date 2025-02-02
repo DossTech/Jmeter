@@ -1,0 +1,7 @@
+Commonly used elements-Timers
+=============================
+ConstantTimer
+UniformRandoTimer
+--------
+Pacing vs ThinkTime
+=====================
