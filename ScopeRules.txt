@@ -1,0 +1,16 @@
+ScopeRules:
+===========
+ Samplers/logic: 
+
+
+
+--------------------------
+Execution Order:
+================
+1.Configuration Elements
+2.Pre-Processor
+3.Timers
+4.Samplers
+5.Post-Processors
+6.Assertions
+7.Listeners
