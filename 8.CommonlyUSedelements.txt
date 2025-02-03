@@ -5,3 +5,6 @@ UniformRandoTimer
 --------
 Pacing vs ThinkTime
 =====================
+Pacing: Interval between session starts or requests per second send to the syustem under test
+
+Think Time: delay between step inside the oneiteration of the flow
